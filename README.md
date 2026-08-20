@@ -12,7 +12,7 @@ This is a project demonstrating an AI agent for agricultural applications, built
 ## Running the App:
 
 You can view the live deployed application here:
-https://farmagenticai-4qgb6abvejtpbenwelu7fx.streamlit.app/
+https://farm-agentic-ai-kgnogailwhpaapxd5s6yfb.streamlit.app/
 
 
 
